@@ -21,3 +21,5 @@ But survival comes with a cost. Every choice you make tightens the grip of dread
 Can you sever yourself from the nightmare before the Anomaly claims you? Or will you join the countless victims who thought they could escape?
 
 Project Severance is not just about running — it’s about enduring fear, outthinking the darkness, and surviving long enough to discover the truth.
+
+### Check It Out On Devpost: https://devpost.com/software/anomaly-7kgip6?ref_content=user-portfolio&ref_feature=in_progress
